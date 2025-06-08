@@ -80,4 +80,3 @@ def hlavni_menu():
 
 # Spuštění programu
 hlavni_menu()
-
